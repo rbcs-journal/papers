@@ -7,13 +7,13 @@
     "title": "PyBioCluster: Um pacote aberto para agrupamento e análise comparativa de dados genômicos",
     "authors": [
       {
-        "name": "Fabiano Menegidio",
+        "name": "Autor Exemplo",
         "orcid": "0000-0000-0000-0000",
-        "affiliation": "Laboratório de Bioinformática e Ômicas (LaBiOmicS), Brasil"
+        "affiliation": "Instituto de Computação e Bioinformática, Brasil"
       }
     ],
     "doi": "10.5281/zenodo.rbcs.0001",
-    "software_repository": "https://github.com/LaBiOmicS/pybiocluster",
+    "software_repository": "https://github.com/rbcs-journal/pybiocluster-demo",
     "review_issue": "https://github.com/rbcs-journal/reviews/issues/1",
     "track": "Bioinformática & Biologia Computacional",
     "date_accepted": "2026-11-04",

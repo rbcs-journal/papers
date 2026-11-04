@@ -7,11 +7,11 @@ tags:
   - Agrupamento
   - Dados Ômicos
 authors:
-  - name: Fabiano Menegidio
+  - name: Autor Exemplo
     orcid: 0000-0000-0000-0000
     affiliation: 1
 affiliations:
- - name: Laboratório de Bioinformática e Ômicas (LaBiOmicS), Brasil
+ - name: Instituto de Computação e Bioinformática, Brasil
    index: 1
 date: 4 Novembro 2026
 bibliography: paper.bib
